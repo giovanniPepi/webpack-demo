@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'MyFont';
-    src: url('./Whisper-Regular.ttf') format('ttf');
+    src: url('./Whisper-Regular.ttf') format('truetype');
     font-weight: 600;
     font-style: italic;
 }
@@ -9,4 +9,5 @@
     color:red;
     background: url('./image.svg');
     font-family: 'MyFont';
+    font-size: 4rem;
 }
